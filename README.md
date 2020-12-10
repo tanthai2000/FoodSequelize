@@ -1,1 +1,1 @@
-# FoodSequelize
+# Food-Sequelize
